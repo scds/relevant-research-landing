@@ -1,13 +1,13 @@
-# << ENTER WORKSHOP NAME HERE >>
-Materials for the Relevant Research workshop: **<<  ENTER WORKSHOP NAME HERE  >> **  
+# Relevant Research Series
+Materials for the Sherman Centre Workshop Series’ landing page  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/<<enter_site_url>>) with GitHub Pages   
+This repository contains the source files for the Relevant Research Series’ [landing page](https://scds.github.io/relevant-research-landing) using GitHub Pages   
 
 
 Contributions by the following individuals: 
 - Workshop content created by << ENTER NAME(S) HERE >> 
 - Content edited for online use by << ENTER NAME(S) HERE >> 
-- Online pages created by << ENTER NAME(S) HERE >> 
+- Online pages created by Sil Hamilton 
 
 
   
