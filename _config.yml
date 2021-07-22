@@ -1,4 +1,4 @@
-title: Relevant Research Workshop Name # *** Enter workshop title here 
+title: Relevant Research Series # *** Enter workshop title here 
 subtitle: 'Relevant Research Series'
 
 remote_theme: scds/just-the-docs
@@ -17,7 +17,7 @@ heading_anchors: true
 # appears at the bottom of every page's main content
 
 # Back to top link
-back_to_top: true
+back_to_top: false
 back_to_top_text: "Back to top"
 
 # Footer last edited timestamp
