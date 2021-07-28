@@ -12,7 +12,7 @@ nav_order: 1
 ### [Transcending Mental Models](https://scds.github.io/transcending-mental-models/)
 ### [Telling Data-Driven Stories: Lessons from data journalism](https://scds.github.io/data-driven-stories/)
 ### [Design Principles for Data Visualization](https://scds.github.io/data-visualization-principles/)
-### [Feminist Data Workshop](https://github.com/scds/building-feminist-data)
+### [Feminist Data Workshop](https://scds.github.io/building-feminist-data/)
 
 --- 
 
