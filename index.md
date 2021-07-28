@@ -11,7 +11,8 @@ nav_order: 1
 ### [Transcending Mental Models](https://scds.github.io/transcending-mental-models/)
 ### [Telling Data-Driven Stories: Lessons from data journalism](https://scds.github.io/data-driven-stories/)
 ### [Design Principles for Data Visualization](https://scds.github.io/data-visualization-principles/)
-### [Feminist Data Workshop](https://github.com/scds/building-feminist-data)  
+### [Feminist Data Workshop](https://github.com/scds/building-feminist-data)
+### [Research Beyond Academia](https://scds.github.io/research-beyond-academia/)
 --- 
 
 The Relevant Research Series brings together leading international experts in cross-disciplinary, skill-building workshops on data storytelling, visualization and audience research. Presented in partnership between the [Sherman Centre](https://scds.ca/) and [Spark](https://spark.mcmaster.ca/). The series was generously supported by funding from the Social Sciences and Humanities Research Council of Canada. 
